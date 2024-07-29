@@ -1,12 +1,12 @@
 # My Portfolio
 ================
 
-Welcome to my portfolio! I'm [LynnBetty Mawira], a passionate developer and designer with a love for creating innovative solutions.
+Welcome to my portfolio! I'm LynnBetty Mawira, a passionate developer and designer with a love for creating innovative solutions .
 
 ## About Me
 -----------
 
-I'm a [Student] with [0] years of experience in the industry. My expertise lies in [Website Development], and I'm always looking to expand my skillset.
+I'm a professional student with one year of experience in the university. My expertise lies in Website Development, and I'm always looking to expand my skillset.
 
 ### Contact Information
 
