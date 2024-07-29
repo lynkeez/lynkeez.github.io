@@ -84,8 +84,3 @@ I'm a professional student with one year of experience in the university. My exp
 
 * Thanks to [Tabitha Kihara, Edward Ombui] for their guidance and support.
 * Thanks to [Youtube] for providing valuable resources and tutorials.
-
-## License
--------
-
-This portfolio is licensed under the [License Name] license.
