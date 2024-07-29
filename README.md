@@ -44,12 +44,12 @@ I'm a professional student with one year of experience in the university. My exp
 ## Education
 ------------
 
-* [Bachelors], [Information Systems Technology], [USIU-Africa], [2027]
+* Bachelors, Information Systems Technology, USIU-Africa, 2027
 
 ## Experience
 -------------
 
-* [None]
+* One year experience in the University.
 
 ## Acknowledgments
 ---------------
