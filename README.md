@@ -19,14 +19,14 @@ I'm a professional student with one year of experience in the university. My exp
 
 * Description: My personal website, built using HTML.
 * Technologies: HTML
-* Live Demo: [Live demo URL](https://yourwebsite.com/)
+* Live Demo: [Live demo URL]()
 * GitHub Repository: [https://github.com/lynkeez/lynnkeez.github.io](https://github.com/lynkeez/lynnkeez.github.io)
 
 ### Project 2: Login Interface
 
 * Description: My login interface, built using HTML, CSS, and JavaScript.
 * Technologies: HTML, CSS, JavaScript, Bootstrap
-* Live Demo: [https://replit.com/@lynnbettykeez/Login-Interface](https://replit.com/@lynnbettykeez/Login-Interface)
+* Live Demo: [https://codepen.io/lynnkeez/pen/xxogxEO](https://codepen.io/lynnkeez/pen/xxogxEO)
 * GitHub Repository: [https://github.com/lynkeez/lynnkeez.github.io](https://github.com/lynkeez/lynnkeez.github.io)
 
 ### Project 3: Area of Shape
